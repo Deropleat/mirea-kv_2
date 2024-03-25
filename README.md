@@ -151,5 +151,5 @@ app_root is ready
         object_05 is not ready
 ```
 ---
-### Автор - https://vk.com/aptekkkar 
+### Автор - https://vk.com/aptekkkar / https://t.me/glaucine 
    + Прямой путь по ID: https://vk.com/id169607065
